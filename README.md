@@ -33,7 +33,7 @@
  ---
  ## Ⅴ. 데이터 시각화
  
-<img scr="https://user-images.githubusercontent.com/74239843/102807178-8875a700-4401-11eb-84e3-ddcba610835e.jpg"width="700"height="370">
+<img scr="https://user-images.githubusercontent.com/74239843/102807178-8875a700-4401-11eb-84e3-ddcba610835e.jpg" width="700" height="370">
 
 ---
 ## Ⅵ. 데이터 해석
