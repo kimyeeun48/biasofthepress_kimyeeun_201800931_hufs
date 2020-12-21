@@ -33,6 +33,7 @@
  ---
  ## Ⅴ. 데이터 시각화
  
+![데이터 시각화](https://user-images.githubusercontent.com/74239843/102808590-db505e00-4403-11eb-94e3-73902720da15.jpg)
 
 
 ---
